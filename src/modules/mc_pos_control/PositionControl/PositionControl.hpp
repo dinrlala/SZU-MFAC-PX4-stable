@@ -328,8 +328,8 @@ private:
 	matrix::Matrix<float, 6, 3> thetack;
 	matrix::Matrix<float, 6, 3> thetack_init;
 	matrix::Vector3f thetacTemp;
-	bool ifInit = FALSE;
-	bool controlZ = FALSE;
+	bool ifInit = false;
+	bool controlZ = false;
 	int count=0;//初始化计时
 	//状态判断
 	MFACState _mfac_state{MFACState::PID_INIT};
