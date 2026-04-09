@@ -1,5 +1,5 @@
 ## 本分支为修改速度环控制器为CFDLm-MFAC的PX4源码
-谨慎使用。
+谨慎使用。使用前确保已经运行环境配置未见ubuntu.sh。确保编译前执行make cleandist清楚编译残余。
 
 
 # PX4 Drone Autopilot
